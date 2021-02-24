@@ -1,0 +1,41 @@
+.album{
+    width: 800px;
+    background: #212121;
+    border-radius: 15px;
+    align-items: center;
+    padding: 2em;
+}
+
+.name{
+    font-family: 'Poppins', sans-serif;
+    color: #FFFFFF;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Rubik', sans-serif;
+    color: #b3b3b3;
+}
+
+.info{
+    padding: 1em;
+}
+
+.album-pic{
+    border-radius: 10px;
+}
+
+.boton{
+    font-family: 'Rubik', sans-serif;
+    background: #1db954;
+    color: #FFFFFF;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #1db954;
+}
+
